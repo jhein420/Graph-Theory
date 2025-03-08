@@ -1,6 +1,6 @@
 #program demos and playing around
-from myPackages import DrawGraph as DG
-from myPackages import StaticGraphs as SG
+import DrawGraph as DG
+import StaticGraphs as SG
 
 gr = SG.g
 
