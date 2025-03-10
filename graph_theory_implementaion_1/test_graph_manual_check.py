@@ -1,4 +1,4 @@
-#for testing and checking with hardcoded data
+#for testing and checking implementation with hardcoded data
 #basic graph using dictionaries
 
 graph = { "a" : {"c"},
@@ -36,7 +36,7 @@ def ShowGraph(a):
 
 
 #display to console or GUI
+#ShowGraph(graph)
+#print('Isolated Nodes', find_isolated_nodes(graph))
+#print('Edges', generate_edges(graph))
 
-ShowGraph(graph)
-print('Isolated Nodes', find_isolated_nodes(graph))
-print('Edges', generate_edges(graph))
