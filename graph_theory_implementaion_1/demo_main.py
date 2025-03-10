@@ -1,6 +1,6 @@
 #program demos and playing around 
 #testing the implementation
-import graph_theory_implementaion_1.DrawGraph as DG
+import DrawGraph as DG
 #import StaticGraphs as SG
 
 g = { "a" : {"d", "f"},
